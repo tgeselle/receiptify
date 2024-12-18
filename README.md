@@ -92,7 +92,7 @@ These improvements would make the system more robust and capable of handling:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/tgeselle/receiptify
 cd receiptify
 ```
 
